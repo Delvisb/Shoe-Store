@@ -1,6 +1,5 @@
 # Final Project CSIT 337  
-# In this  project, you will design a  fully functional  web site.  You shall choose your own web  site 
-application.  
+# In this  project, you will design a  fully functional  web site.  You shall choose your own web  site application.  
 
 # For example, you might want to do the following among many others: 
  
