@@ -28,7 +28,7 @@ session_start();
 	
 	<body>
 		<div class="row header">
-    	<h1>Matteo's Shoe Emporium</h1>
+    	<h1>Delvis' Shoe Emporium</h1>
 		</div>
 		
 		<nav class="navbar navbar-expand-sm bg-white">
